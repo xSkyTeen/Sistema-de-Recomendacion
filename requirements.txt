@@ -1,0 +1,16 @@
+# requirements.txt
+pandas
+scikit-learn
+numpy
+Flask
+scipy # Para funciones de distancia si no las implementas manualmente
+flask-cors # ¡NUEVO! Para permitir solicitudes desde el navegador
+# Para procesamiento de texto (ej. si usas IMDb/TMDb para sinopsis)
+nltk
+# Para procesamiento de audio (si eliges música)
+# librosa
+# Para procesamiento de imágenes (si eliges imágenes)
+# opencv-python
+# Pillow
+matplotlib
+scikit-learn

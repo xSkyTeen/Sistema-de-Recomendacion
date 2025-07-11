@@ -1,0 +1,7 @@
+data/
+src/models/
+__pycache__/
+.idea/
+*.pkl
+*.ann
+*.safetensors
